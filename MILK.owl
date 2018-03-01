@@ -1,0 +1,1232 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/l/ontologies/2018/1/milk"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/l/ontologies/2018/1/milk">
+    <Prefix name="" IRI="http://www.semanticweb.org/l/ontologies/2018/1/milk"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#competesWith"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Product"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Revenue-2015"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#cattle_number"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#famous_represent"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Inner_Mongolia_Yili_Industrial_Group_Co.,_Ltd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Organization"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#coorperatesWith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cattle"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isShareholderOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dairy"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#set_price(250ml*12)-Deluxe(pure)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Consumer_appraise_hotwords-Deluxe(pure)"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#sells"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Store"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(low_fat)"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#purchase"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Revenue-2016"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Consumer_appraise_hotwords-Satine(pure)"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Group_Company"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Sale_quantity(monthly)"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#substituteFor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Zhunger_farming_co.,_Ltd."/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#relative_density"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Yili_Dairy_co.ltd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Soy_Milk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#COFCO_dairy_co.,Ltd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GB19302-2010_fermentedmilk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#producer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#GB25190-2010_Sterilizedmilk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Raw_Milk"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#set_price(250ml*12)-Deluxe(low_fat)"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#supplyMilkResource"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GB19302-2010_rawmilk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Deluxe_exclusive_New_Zealand_farm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Promote"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Online_Store"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Consumer_praise_rate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#supplies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Non-milk_fat_solid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Quality_Certification"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Sale_amount(monthly)-Satine(pure)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Amazon"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#supplyRawMilk"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isproducesdBy"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Protein_content"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#social_activity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Asset-2016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#National_satety_standard"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Sale_amount(monthly)-Satine(Low_fat)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#GB19302-2010_rawmilk"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#set_price(250ml*12)-Satine(pure)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Modern_farming_co.,_Ltd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Plant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Massey_University"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#GB19302-2010_fermentedmilk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Liquid_Milk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Net_profit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mixed_Milk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GB25190-2010_Sterilizedmilk"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Consumer_appraise_hotwords-Deluxe(low_fat)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Gome"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Asset-2015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Offline_Store"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#feedstuff_yield(T)"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#set_price(250ml*12)-Satine(low_fat)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#JD"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Shareholding_ratio"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Husbandry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Research"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Suning"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Asset"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Tmall"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Revenue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Vivi_soy_milk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Animal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#title_sponsorship"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#supplyFeedstuff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#National_Safety_Standard"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#New_zealand_AsureQuality_co.,_Ltd"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isSoldBy"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Net_profit-2015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Supervise"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Consumer_appraise_hotwords-Satine(low_fat)"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Satine(pure)"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Prize"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#set_price"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Ministry_of_Health"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#publishes"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#obeys"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#produces"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Feedstuff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Company"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Mucedine(CFU/ml)"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Policy"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Net_profit-2016"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(pure)"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#fat_content"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Animal"/>
+        <Class IRI="#Husbandry"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cattle"/>
+        <Class IRI="#Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dairy"/>
+        <Class IRI="#producer"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Feedstuff"/>
+        <Class IRI="#Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB19302-2010_fermentedmilk"/>
+        <Class IRI="#National_Safety_Standard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB19302-2010_fermentedmilk"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#Protein_content"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:float"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minExclusive">
+                    <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2.9</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB19302-2010_fermentedmilk"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#fat_content"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:float"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3.1</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB19302-2010_rawmilk"/>
+        <Class IRI="#National_Safety_Standard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB19302-2010_rawmilk"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#Protein_content"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:float"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2.8</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB19302-2010_rawmilk"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#fat_content"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:float"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3.1</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB19302-2010_rawmilk"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#relative_density"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:float"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">1.027</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB25190-2010_Sterilizedmilk"/>
+        <Class IRI="#National_Safety_Standard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB25190-2010_Sterilizedmilk"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#Protein_content"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:float"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minExclusive">
+                    <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">2.9</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB25190-2010_Sterilizedmilk"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#fat_content"/>
+            <DatatypeRestriction>
+                <Datatype abbreviatedIRI="xsd:float"/>
+                <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                    <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">3.1</Literal>
+                </FacetRestriction>
+            </DatatypeRestriction>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GB25190-2010_Sterilizedmilk"/>
+        <DataMaxCardinality cardinality="100">
+            <DataProperty IRI="#Mucedine(CFU/ml)"/>
+            <Datatype abbreviatedIRI="xsd:float"/>
+        </DataMaxCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Husbandry"/>
+        <Class IRI="#Company"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Liquid_Milk"/>
+        <Class IRI="#Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mixed_Milk"/>
+        <Class IRI="#Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#National_Safety_Standard"/>
+        <Class IRI="#Policy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#National_satety_standard"/>
+        <Class IRI="#Policy"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Offline_Store"/>
+        <Class IRI="#Store"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Online_Store"/>
+        <Class IRI="#Store"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Plant"/>
+        <Class IRI="#Husbandry"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Prize"/>
+        <Class IRI="#Promote"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quality_Certification"/>
+        <Class IRI="#Company"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Raw_Milk"/>
+        <Class IRI="#Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Research"/>
+        <Class IRI="#Organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Soy_Milk"/>
+        <Class IRI="#producer"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Store"/>
+        <Class IRI="#Company"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Supervise"/>
+        <Class IRI="#Organization"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#famous_represent"/>
+        <Class IRI="#Promote"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#producer"/>
+        <Class IRI="#Company"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#social_activity"/>
+        <Class IRI="#Promote"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#title_sponsorship"/>
+        <Class IRI="#Promote"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#Online_Store"/>
+        <NamedIndividual IRI="#Amazon"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Organization"/>
+        <NamedIndividual IRI="#Deluxe_exclusive_New_Zealand_farm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Raw_Milk"/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#GB19302-2010_fermentedmilk"/>
+        <NamedIndividual IRI="#GB19302-2010_fermentedmilk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#GB19302-2010_rawmilk"/>
+        <NamedIndividual IRI="#GB19302-2010_rawmilk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#GB25190-2010_Sterilizedmilk"/>
+        <NamedIndividual IRI="#GB25190-2010_Sterilizedmilk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Online_Store"/>
+        <NamedIndividual IRI="#Gome"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Online_Store"/>
+        <NamedIndividual IRI="#JD"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Research"/>
+        <NamedIndividual IRI="#Massey_University"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dairy"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Supervise"/>
+        <NamedIndividual IRI="#Ministry_of_Health"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Online_Store"/>
+        <NamedIndividual IRI="#Suning"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Online_Store"/>
+        <NamedIndividual IRI="#Tmall"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Mixed_Milk"/>
+        <NamedIndividual IRI="#Vivi_soy_milk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Dairy"/>
+        <NamedIndividual IRI="#Yili_Dairy_co.ltd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Group_Company"/>
+        <NamedIndividual IRI="#COFCO_dairy_co.,Ltd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Liquid_Milk"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Liquid_Milk"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Animal"/>
+        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Group_Company"/>
+        <NamedIndividual IRI="#Inner_Mongolia_Yili_Industrial_Group_Co.,_Ltd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Plant"/>
+        <NamedIndividual IRI="#Modern_farming_co.,_Ltd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Quality_Certification"/>
+        <NamedIndividual IRI="#New_zealand_AsureQuality_co.,_Ltd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Liquid_Milk"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Liquid_Milk"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Soy_Milk"/>
+        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Plant"/>
+        <NamedIndividual IRI="#Zhunger_farming_co.,_Ltd."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <DataExactCardinality cardinality="50000">
+            <DataProperty IRI="#Revenue"/>
+            <Datatype abbreviatedIRI="xsd:float"/>
+        </DataExactCardinality>
+        <AnonymousIndividual nodeID="_:genid25"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Amazon"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Amazon"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Amazon"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Amazon"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Deluxe_exclusive_New_Zealand_farm"/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#obeys"/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+        <NamedIndividual IRI="#GB19302-2010_rawmilk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Gome"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Gome"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Gome"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Gome"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#JD"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#JD"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#JD"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#JD"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isShareholderOf"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#Modern_farming_co.,_Ltd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#purchase"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#substituteFor"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#publishes"/>
+        <NamedIndividual IRI="#Ministry_of_Health"/>
+        <NamedIndividual IRI="#GB19302-2010_fermentedmilk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#publishes"/>
+        <NamedIndividual IRI="#Ministry_of_Health"/>
+        <NamedIndividual IRI="#GB19302-2010_rawmilk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#publishes"/>
+        <NamedIndividual IRI="#Ministry_of_Health"/>
+        <NamedIndividual IRI="#GB25190-2010_Sterilizedmilk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Suning"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Suning"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Suning"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Suning"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#sells"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Yili_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Yili_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <AnonymousIndividual nodeID="_:genid26"/>
+        </Annotation>
+        <ObjectProperty IRI="#isShareholderOf"/>
+        <NamedIndividual IRI="#COFCO_dairy_co.,Ltd"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#Amazon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#Gome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#JD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#Suning"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#Tmall"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#obeys"/>
+        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#GB25190-2010_Sterilizedmilk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#Amazon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#Gome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#JD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#Suning"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#Tmall"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#obeys"/>
+        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#GB25190-2010_Sterilizedmilk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#supplyRawMilk"/>
+        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#supplyRawMilk"/>
+        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+        <NamedIndividual IRI="#Yili_Dairy_co.ltd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Modern_farming_co.,_Ltd"/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#Amazon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#Gome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#JD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#Suning"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#Tmall"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#obeys"/>
+        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#GB25190-2010_Sterilizedmilk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#Amazon"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#Gome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#JD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#Suning"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isSoldBy"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#Tmall"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#obeys"/>
+        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#GB25190-2010_Sterilizedmilk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
+        <NamedIndividual IRI="#Vivi_soy_milk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#produces"/>
+        <NamedIndividual IRI="#Zhunger_farming_co.,_Ltd."/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Protein_content"/>
+        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.2</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Asset"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4912442.5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Revenue"/>
+        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">5409696.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(low_fat)"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">21928</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(pure)"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">113426</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Sale_amount(monthly)-Satine(Low_fat)"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">14213</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Sale_amount(monthly)-Satine(pure)"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">77514</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#set_price(250ml*12)-Deluxe(low_fat)"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">68</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#set_price(250ml*12)-Deluxe(pure)"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">72.9</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#set_price(250ml*12)-Satine(low_fat)"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">54.4</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#set_price(250ml*12)-Satine(pure)"/>
+        <NamedIndividual IRI="#Tmall"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">64.6</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Asset"/>
+        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">150000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Revenue"/>
+        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">350000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#feedstuff_yield(T)"/>
+        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2000000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Asset-2016"/>
+        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">350000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Revenue-2016"/>
+        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">700000</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#cattle_number"/>
+        <NamedIndividual IRI="#Zhunger_farming_co.,_Ltd."/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#Shareholding_ratio"/>
+        <AnonymousIndividual nodeID="_:genid26"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">23.88</Literal>
+    </DataPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#produces"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#sells"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#supplies"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#supplyFeedstuff"/>
+        <ObjectProperty IRI="#supplies"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#supplyMilkResource"/>
+        <ObjectProperty IRI="#supplies"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#supplyRawMilk"/>
+        <ObjectProperty IRI="#supplies"/>
+    </SubObjectPropertyOf>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#isShareholderOf"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#produces"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#sells"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#produces"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#sells"/>
+    </InverseFunctionalObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#competesWith"/>
+    </SymmetricObjectProperty>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#coorperatesWith"/>
+    </SymmetricObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </TransitiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#competesWith"/>
+        <Class IRI="#Company"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isShareholderOf"/>
+        <Class IRI="#Group_Company"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isproducesdBy"/>
+        <Class IRI="#Product"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#produces"/>
+        <Class IRI="#Company"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#supplies"/>
+        <Class IRI="#Company"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#competesWith"/>
+        <Class IRI="#Company"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isShareholderOf"/>
+        <Class IRI="#Company"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isproducesdBy"/>
+        <Class IRI="#producer"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#produces"/>
+        <Class IRI="#Product"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#supplies"/>
+        <Class IRI="#Company"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Asset-2015"/>
+        <DataProperty IRI="#Asset"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Asset-2016"/>
+        <DataProperty IRI="#Asset"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Net_profit-2015"/>
+        <DataProperty IRI="#Net_profit"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Net_profit-2016"/>
+        <DataProperty IRI="#Net_profit"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Revenue-2015"/>
+        <DataProperty IRI="#Revenue"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Revenue-2016"/>
+        <DataProperty IRI="#Revenue"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Consumer_appraise_hotwords-Deluxe(low_fat)"/>
+        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Consumer_appraise_hotwords-Deluxe(pure)"/>
+        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Consumer_appraise_hotwords-Satine(low_fat)"/>
+        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Consumer_appraise_hotwords-Satine(pure)"/>
+        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(low_fat)"/>
+        <DataProperty IRI="#Sale_quantity(monthly)"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(pure)"/>
+        <DataProperty IRI="#Sale_quantity(monthly)"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Sale_amount(monthly)-Satine(Low_fat)"/>
+        <DataProperty IRI="#Sale_quantity(monthly)"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#Sale_amount(monthly)-Satine(pure)"/>
+        <DataProperty IRI="#Sale_quantity(monthly)"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#feedstuff_yield(T)"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#set_price(250ml*12)-Deluxe(low_fat)"/>
+        <DataProperty IRI="#set_price"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#set_price(250ml*12)-Deluxe(pure)"/>
+        <DataProperty IRI="#set_price"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#set_price(250ml*12)-Satine(low_fat)"/>
+        <DataProperty IRI="#set_price"/>
+    </SubDataPropertyOf>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#set_price(250ml*12)-Satine(pure)"/>
+        <DataProperty IRI="#set_price"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="#set_price"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="#set_price"/>
+            <Datatype abbreviatedIRI="rdf:XMLLiteral"/>
+        </DataSomeValuesFrom>
+    </DataPropertyDomain>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <AnonymousIndividual nodeID="_:genid27"/>
+        <IRI>#冰淇淋</IRI>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
