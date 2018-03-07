@@ -16,7 +16,19 @@
         <ObjectProperty IRI="#生产"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#carrefour"/>
+        <DataProperty IRI="#月销量-特伦苏低脂牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#黑龙江省完达山乳业股份有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#月销量-金典低脂牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#山东佳宝集团有限公司"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#中粮集团有限公司"/>
@@ -28,100 +40,154 @@
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Mengniu(low_fat)"/>
+        <NamedIndividual IRI="#湖北友芝友乳业有限责任公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Inner_Mongolia_Shuke_Digital_Marketing_Co._Ltd"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Yili(low_fat)"/>
+        <NamedIndividual IRI="#光明纯牛奶"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#合作"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Shanghai_xianyu_pasture_Dairy_Sales_Co.Ltd"/>
+        <ObjectProperty IRI="#认证"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Revenue-2015"/>
+        <Class IRI="#投资"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#cattle_number"/>
+        <NamedIndividual IRI="#贵阳三联乳业有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#四川华润万家好来超市有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#内蒙古赛科星繁育生物技术（集团）股份有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#伊利纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#河北蒙牛乳业销售有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#中国蒙牛乳业有限公司"/>
     </Declaration>
     <Declaration>
         <Class IRI="#组织"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#奶制品"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#控股"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Yonghui"/>
+        <NamedIndividual IRI="#深圳市瑞康乳业有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#set_price(250ml*12)-Deluxe(pure)"/>
+        <NamedIndividual IRI="#苏果超市（徐州）有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <DataProperty IRI="#价格"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Consumer_appraise_hotwords-Deluxe(pure)"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Sanyuan(pure)"/>
+        <DataProperty IRI="#净利润-2016"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(low_fat)"/>
+        <DataProperty IRI="#营业额-2015"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#牛奶"/>
+        <NamedIndividual IRI="#四川蒙牛乳业销售有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Revenue-2016"/>
+        <Class IRI="#生物技术"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#现代牧业纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#消费者评价热词"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#圣元乳业股份有限公司"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#月销量"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#蒙牛低脂牛奶"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#消费者评价热词-金典纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#山西古城乳业集团有限公司"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#内蒙古伊利实业集团股份有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Consumer_appraise_hotwords-Satine(pure)"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Mengniu(pure)"/>
+        <DataProperty IRI="#营业额"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#豆奶"/>
+        <DataProperty IRI="#资产"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#北京蒙牛宏达乳制品有限责任公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#内蒙古赛科星家畜种业与繁育生物技术研究院有限公司"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#出售"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Jule(full_fat)"/>
+        <DataProperty IRI="#净利润-2015"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Jiangxi_Mengniu_xingfu_Dairy_Sales_Co._Ltd"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Sale_quantity(monthly)"/>
+        <NamedIndividual IRI="#爱氏晨曦乳制品进出口有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Yantang(pure)"/>
+        <NamedIndividual IRI="#燕糖纯牛奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Zhunger_farming_co.,_Ltd."/>
+        <NamedIndividual IRI="#泰氏饲料"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#光明乳业股份有限公司"/>
+        <DataProperty IRI="#消费者评价热词-特伦苏低脂牛奶"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#relative_density"/>
+        <DataProperty IRI="#营业额-2016"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#皇氏集团股份有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#北京家乐福商业有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#宁波大润发优特购物有限公司"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#含菌量（菌落数/毫升）"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#上海鲜语牧场乳业销售有限公司"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#净利润"/>
     </Declaration>
     <Declaration>
         <Class IRI="#饲料"/>
@@ -130,82 +196,103 @@
         <Class IRI="#标准"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#君乐宝乳业集团"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#四川伊利乳业有限责任公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#江西蒙牛幸福乳业销售有限公司"/>
     </Declaration>
     <Declaration>
         <Class IRI="#销售"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#set_price(250ml*12)-Deluxe(low_fat)"/>
+        <Class IRI="#食品"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Modern_faming(pure)"/>
+        <DataProperty IRI="#价格(250ml*12)-特伦苏低脂牛奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Deluxe_exclusive_New_Zealand_farm"/>
+        <DataProperty IRI="#价格(250ml*12)-金典纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#真优格"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#月销量-特伦苏纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#消费者好评率"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#奶牛数量"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#GB19302-2010"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Soyspring"/>
+        <Class IRI="#畜牧业"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Consumer_praise_rate"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <DataProperty IRI="#月销量-金典纯牛奶"/>
     </Declaration>
     <Declaration>
         <Class IRI="#社会活动"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Doubendou"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#Non-milk_fat_solid"/>
+        <Class IRI="#在线商城"/>
     </Declaration>
     <Declaration>
         <Class IRI="#监管机构"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#山东恩泽乳品有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Sale_amount(monthly)-Satine(pure)"/>
+        <NamedIndividual IRI="#石家庄君乐宝乳业有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Amazon"/>
+        <NamedIndividual IRI="#成都光明乳业有限公司"/>
     </Declaration>
     <Declaration>
         <Class IRI="#研究机构"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Protein_content"/>
+        <NamedIndividual IRI="#准格尔旗盛旺种养殖专业合作社"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Asset-2016"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#trust-mart"/>
+        <NamedIndividual IRI="#赤峰澳亚现代牧场有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Sale_amount(monthly)-Satine(Low_fat)"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#GB19302-2010_rawmilk"/>
+        <DataProperty IRI="#持股比例"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#set_price(250ml*12)-Satine(pure)"/>
+        <NamedIndividual IRI="#豆本豆原味豆奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Modern_farming_co.,_Ltd"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Sichuan_Mengniu_Dairy_Sales_Co._Ltd"/>
+        <NamedIndividual IRI="#蒙牛纯牛奶"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#购买"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#冰泉原味豆奶"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#机械"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Massey_University"/>
@@ -214,97 +301,82 @@
         <Class IRI="#质量认证"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#天润纯牛奶"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Net_profit"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Yili(pure)"/>
+        <NamedIndividual IRI="#内蒙古数科数字营销有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Consumer_appraise_hotwords-Deluxe(low_fat)"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Gome"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#Asset-2015"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Shengmu(organic)"/>
+        <DataProperty IRI="#资产-2016"/>
     </Declaration>
     <Declaration>
         <Class IRI="#宣传"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#feedstuff_yield(T)"/>
+        <NamedIndividual IRI="#蒙牛高科鲜乳制品有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#rt-mart"/>
+        <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#GB25190-2010"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#JD"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#set_price(250ml*12)-Satine(low_fat)"/>
+        <NamedIndividual IRI="#真果粒"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#CR_Vanguard"/>
+        <NamedIndividual IRI="#临夏壹清清真食品有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Shareholding_ratio"/>
+        <NamedIndividual IRI="#农工商超市集团苏州有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Guangdong_Mengniu_Dairy_Sales_Co._Ltd"/>
+        <NamedIndividual IRI="#广东蒙牛乳业销售有限公司"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#线下"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#线上"/>
+        <NamedIndividual IRI="#蒙牛乳制品清远有限责任公司"/>
     </Declaration>
     <Declaration>
         <Class IRI="#国家安全标准"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Mengniu_hi-tech_fresh_dairy_products_Co._Ltd"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Xiajin(pure)"/>
+        <NamedIndividual IRI="#菊乐全脂牛奶"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#遵守"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Suning"/>
+        <Class IRI="#名声"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Asset"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Tmall"/>
+        <Class IRI="#贸易"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#竞争"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#名声"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#suguo"/>
-    </Declaration>
-    <Declaration>
         <ObjectProperty IRI="#替代"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Revenue"/>
+        <NamedIndividual IRI="#现代牧场原奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Vitasoy"/>
+        <NamedIndividual IRI="#内蒙古富源国际实业有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#维维原味豆奶"/>
     </Declaration>
     <Declaration>
         <Class IRI="#赞助"/>
@@ -313,19 +385,16 @@
         <ObjectProperty IRI="#供应"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#wumart"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#国家食品药品监督管理总局"/>
+        <DataProperty IRI="#饲料产量（吨）"/>
     </Declaration>
     <Declaration>
         <Class IRI="#荣誉"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#商店"/>
+        <NamedIndividual IRI="#国家食品药品监督管理总局"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#walmart"/>
+        <DataProperty IRI="#价格(250ml*12)-特伦苏纯牛奶"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#发布"/>
@@ -340,64 +409,73 @@
         <NamedIndividual IRI="#New_zealand_AsureQuality_co.,_Ltd"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Net_profit-2015"/>
+        <DataProperty IRI="#消费者评价热词-特伦苏纯牛奶"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Consumer_appraise_hotwords-Satine(low_fat)"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#山东百慧乳业股份有限公司"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#被生产"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Wonderson(pure)"/>
+        <NamedIndividual IRI="#三元乳业股份有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+        <DataProperty IRI="#消费者评价热词-金典低脂牛奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Vivi"/>
+        <DataProperty IRI="#价格(250ml*12)-金典低脂牛奶"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#set_price"/>
+        <NamedIndividual IRI="#达能（上海）投资有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+        <DataProperty IRI="#相对密度"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+        <NamedIndividual IRI="#北京沃尔玛百货有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Terun(pure)"/>
+        <NamedIndividual IRI="#福建永辉超市有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Nong_Gong_Shang_Supermarket"/>
+        <Class IRI="#实体店"/>
     </Declaration>
     <Declaration>
         <Class IRI="#产品"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Mucedine(CFU/ml)"/>
+        <NamedIndividual IRI="#维他奶原味豆奶"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#Net_profit-2016"/>
+        <DataProperty IRI="#脂肪含量"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#New_hope(pure)"/>
+        <NamedIndividual IRI="#夏进纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#圣牧有机奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#杭州好又多百货有限公司"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#资产-2015"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#蛋白质含量"/>
     </Declaration>
     <Declaration>
         <Class IRI="#原奶"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#牧场"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(pure)"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#fat_content"/>
     </Declaration>
     <SubClassOf>
         <Class IRI="#原奶"/>
@@ -408,23 +486,35 @@
         <Class IRI="#宣传"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#商店"/>
-        <Class IRI="#公司"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#国家安全标准"/>
         <Class IRI="#标准"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#在线商城"/>
+        <Class IRI="#公司"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#奶制品"/>
         <Class IRI="#公司"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#牛奶"/>
-        <Class IRI="#产品"/>
+        <Class IRI="#实体店"/>
+        <Class IRI="#公司"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#牧场"/>
+        <Class IRI="#投资"/>
+        <Class IRI="#公司"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#机械"/>
+        <Class IRI="#公司"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#生物技术"/>
+        <Class IRI="#公司"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#畜牧业"/>
         <Class IRI="#公司"/>
     </SubClassOf>
     <SubClassOf>
@@ -440,27 +530,15 @@
         <Class IRI="#宣传"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#线上"/>
-        <Class IRI="#商店"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#线下"/>
-        <Class IRI="#商店"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="#荣誉"/>
         <Class IRI="#宣传"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#豆奶"/>
-        <Class IRI="#产品"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#豆奶"/>
+        <Class IRI="#质量认证"/>
         <Class IRI="#公司"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="#质量认证"/>
+        <Class IRI="#贸易"/>
         <Class IRI="#公司"/>
     </SubClassOf>
     <SubClassOf>
@@ -472,29 +550,17 @@
         <Class IRI="#公司"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#集团公司"/>
+        <Class IRI="#公司"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#食品"/>
+        <Class IRI="#产品"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#饲料"/>
         <Class IRI="#产品"/>
     </SubClassOf>
-    <ClassAssertion>
-        <Class IRI="#线上"/>
-        <NamedIndividual IRI="#Amazon"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#CR_Vanguard"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#组织"/>
-        <NamedIndividual IRI="#Deluxe_exclusive_New_Zealand_farm"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#原奶"/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#豆奶"/>
-        <NamedIndividual IRI="#Doubendou"/>
-    </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#国家安全标准"/>
         <NamedIndividual IRI="#GB19302-2010"/>
@@ -502,26 +568,6 @@
     <ClassAssertion>
         <Class IRI="#国家安全标准"/>
         <NamedIndividual IRI="#GB25190-2010"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线上"/>
-        <NamedIndividual IRI="#Gome"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#销售"/>
-        <NamedIndividual IRI="#Guangdong_Mengniu_Dairy_Sales_Co._Ltd"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#销售"/>
-        <NamedIndividual IRI="#Inner_Mongolia_Shuke_Digital_Marketing_Co._Ltd"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线上"/>
-        <NamedIndividual IRI="#JD"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#销售"/>
-        <NamedIndividual IRI="#Jiangxi_Mengniu_xingfu_Dairy_Sales_Co._Ltd"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#研究机构"/>
@@ -529,71 +575,19 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#奶制品"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#三元乳业股份有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#奶制品"/>
-        <NamedIndividual IRI="#Mengniu_hi-tech_fresh_dairy_products_Co._Ltd"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#Nong_Gong_Shang_Supermarket"/>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#销售"/>
-        <NamedIndividual IRI="#Shanghai_xianyu_pasture_Dairy_Sales_Co.Ltd"/>
+        <NamedIndividual IRI="#上海鲜语牧场乳业销售有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#销售"/>
-        <NamedIndividual IRI="#Sichuan_Mengniu_Dairy_Sales_Co._Ltd"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#豆奶"/>
-        <NamedIndividual IRI="#Soyspring"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线上"/>
-        <NamedIndividual IRI="#Suning"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线上"/>
-        <NamedIndividual IRI="#Tmall"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#豆奶"/>
-        <NamedIndividual IRI="#Vitasoy"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#豆奶"/>
-        <NamedIndividual IRI="#Vivi"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#Yonghui"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#carrefour"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#rt-mart"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#suguo"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#trust-mart"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#walmart"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#线下"/>
-        <NamedIndividual IRI="#wumart"/>
+        <Class IRI="#集团公司"/>
+        <NamedIndividual IRI="#中国蒙牛乳业有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#集团公司"/>
@@ -601,277 +595,480 @@
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#奶制品"/>
-        <NamedIndividual IRI="#光明乳业股份有限公司"/>
+        <NamedIndividual IRI="#临夏壹清清真食品有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在线商城"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#伊利纯牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#光明纯牛奶"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#集团公司"/>
         <NamedIndividual IRI="#内蒙古伊利实业集团股份有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#机械"/>
+        <NamedIndividual IRI="#内蒙古富源国际实业有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#销售"/>
+        <NamedIndividual IRI="#内蒙古数科数字营销有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#集团公司"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#生物技术"/>
+        <NamedIndividual IRI="#内蒙古赛科星家畜种业与繁育生物技术研究院有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#集团公司"/>
+        <NamedIndividual IRI="#内蒙古赛科星繁育生物技术（集团）股份有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#实体店"/>
+        <NamedIndividual IRI="#农工商超市集团苏州有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#冰泉原味豆奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#畜牧业"/>
+        <NamedIndividual IRI="#准格尔旗盛旺种养殖专业合作社"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在线商城"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#实体店"/>
+        <NamedIndividual IRI="#北京家乐福商业有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#实体店"/>
+        <NamedIndividual IRI="#北京沃尔玛百货有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#销售"/>
+        <NamedIndividual IRI="#北京蒙牛宏达乳制品有限责任公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#集团公司"/>
+        <NamedIndividual IRI="#君乐宝乳业集团"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#奶制品"/>
         <NamedIndividual IRI="#四川伊利乳业有限责任公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#实体店"/>
+        <NamedIndividual IRI="#四川华润万家好来超市有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#奶制品"/>
         <NamedIndividual IRI="#四川新希望乳业有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#销售"/>
+        <NamedIndividual IRI="#四川蒙牛乳业销售有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#监管机构"/>
         <NamedIndividual IRI="#国家食品药品监督管理总局"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <Class IRI="#在线商城"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#圣元乳业股份有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牧场"/>
-        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#圣牧有机奶"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Jule(full_fat)"/>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#夏进纯牛奶"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Mengniu(low_fat)"/>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#天润纯牛奶"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Mengniu(pure)"/>
+        <Class IRI="#实体店"/>
+        <NamedIndividual IRI="#宁波大润发优特购物有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Modern_faming(pure)"/>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牧场"/>
-        <NamedIndividual IRI="#Modern_farming_co.,_Ltd"/>
+        <Class IRI="#集团公司"/>
+        <NamedIndividual IRI="#山东佳宝集团有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#New_hope(pure)"/>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#山东恩泽乳品有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#山东百慧乳业股份有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#集团公司"/>
+        <NamedIndividual IRI="#山西古城乳业集团有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#销售"/>
+        <NamedIndividual IRI="#广东蒙牛乳业销售有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#成都光明乳业有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#实体店"/>
+        <NamedIndividual IRI="#杭州好又多百货有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#销售"/>
+        <NamedIndividual IRI="#江西蒙牛幸福乳业销售有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#销售"/>
+        <NamedIndividual IRI="#河北蒙牛乳业销售有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#饲料"/>
+        <NamedIndividual IRI="#泰氏饲料"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在线商城"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#深圳市瑞康乳业有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#湖北友芝友乳业有限责任公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#燕糖纯牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#贸易"/>
+        <NamedIndividual IRI="#爱氏晨曦乳制品进出口有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#现代牧业纯牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#原奶"/>
+        <NamedIndividual IRI="#现代牧场原奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#集团公司"/>
+        <NamedIndividual IRI="#皇氏集团股份有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#真优格"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#真果粒"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#石家庄君乐宝乳业有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#实体店"/>
+        <NamedIndividual IRI="#福建永辉超市有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#维他奶原味豆奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#维维原味豆奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#在线商城"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#实体店"/>
+        <NamedIndividual IRI="#苏果超市（徐州）有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#菊乐全脂牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#蒙牛乳制品清远有限责任公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#蒙牛低脂牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#蒙牛纯牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#生物技术"/>
+        <NamedIndividual IRI="#蒙牛高科鲜乳制品有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#豆本豆原味豆奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#贵阳三联乳业有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#畜牧业"/>
+        <NamedIndividual IRI="#赤峰澳亚现代牧场有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#投资"/>
+        <NamedIndividual IRI="#达能（上海）投资有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#畜牧业"/>
+        <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#食品"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#奶制品"/>
+        <NamedIndividual IRI="#黑龙江省完达山乳业股份有限公司"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#质量认证"/>
         <NamedIndividual IRI="#New_zealand_AsureQuality_co.,_Ltd"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Sanyuan(pure)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Shengmu(organic)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Terun(pure)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#豆奶"/>
-        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Wonderson(pure)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Xiajin(pure)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Yantang(pure)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Yili(low_fat)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牛奶"/>
-        <NamedIndividual IRI="#Yili(pure)"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#牧场"/>
-        <NamedIndividual IRI="#Zhunger_farming_co.,_Ltd."/>
-    </ClassAssertion>
-    <ClassAssertion>
         <DataExactCardinality cardinality="50000">
-            <DataProperty IRI="#Revenue"/>
+            <DataProperty IRI="#营业额"/>
             <Datatype abbreviatedIRI="xsd:float"/>
         </DataExactCardinality>
-        <AnonymousIndividual nodeID="_:genid121"/>
+        <AnonymousIndividual nodeID="_:genid190"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Amazon"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Amazon"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Amazon"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Amazon"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#生产"/>
-        <NamedIndividual IRI="#Deluxe_exclusive_New_Zealand_farm"/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+        <NamedIndividual IRI="#三元乳业股份有限公司"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#生产"/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#遵守"/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
-        <NamedIndividual IRI="#GB19302-2010_rawmilk"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Gome"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Gome"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Gome"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Gome"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#JD"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#JD"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#JD"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#JD"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
+        <ObjectProperty IRI="#被生产"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
+        <NamedIndividual IRI="#三元乳业股份有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#控股"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
-        <NamedIndividual IRI="#Modern_farming_co.,_Ltd"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#替代"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
-        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
+        <NamedIndividual IRI="#中国蒙牛乳业有限公司"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#生产"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#临夏壹清清真食品有限公司"/>
+        <NamedIndividual IRI="#真优格"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#内蒙古伊利实业集团股份有限公司"/>
+        <NamedIndividual IRI="#四川伊利乳业有限责任公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#内蒙古富源国际实业有限公司"/>
+        <NamedIndividual IRI="#准格尔旗盛旺种养殖专业合作社"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#内蒙古富源国际实业有限公司"/>
+        <NamedIndividual IRI="#赤峰澳亚现代牧场有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#内蒙古富源国际实业有限公司"/>
+        <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#内蒙古赛科星家畜种业与繁育生物技术研究院有限公司"/>
+        <NamedIndividual IRI="#赤峰澳亚现代牧场有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#内蒙古赛科星家畜种业与繁育生物技术研究院有限公司"/>
+        <NamedIndividual IRI="#内蒙古赛科星家畜种业与繁育生物技术研究院有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#农工商超市集团苏州有限公司"/>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#农工商超市集团苏州有限公司"/>
+        <NamedIndividual IRI="#伊利纯牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#生产"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#准格尔旗盛旺种养殖专业合作社"/>
+        <NamedIndividual IRI="#现代牧场原奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#购买"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+        <NamedIndividual IRI="#准格尔旗盛旺种养殖专业合作社"/>
+        <NamedIndividual IRI="#福建永辉超市有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Suning"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Suning"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Suning"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Suning"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
+        <NamedIndividual IRI="#北京家乐福商业有限公司"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#北京家乐福商业有限公司"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#北京沃尔玛百货有限公司"/>
+        <NamedIndividual IRI="#维维原味豆奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#出售"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#北京蒙牛宏达乳制品有限责任公司"/>
+        <NamedIndividual IRI="#北京家乐福商业有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <AnonymousIndividual nodeID="_:genid122"/>
-        </Annotation>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#北京蒙牛宏达乳制品有限责任公司"/>
+        <NamedIndividual IRI="#北京沃尔玛百货有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#控股"/>
-        <NamedIndividual IRI="#中粮集团有限公司"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
+        <NamedIndividual IRI="#君乐宝乳业集团"/>
+        <NamedIndividual IRI="#石家庄君乐宝乳业有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#生产"/>
         <NamedIndividual IRI="#四川伊利乳业有限责任公司"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#生产"/>
         <NamedIndividual IRI="#四川伊利乳业有限责任公司"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#四川华润万家好来超市有限公司"/>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生产"/>
+        <NamedIndividual IRI="#四川新希望乳业有限公司"/>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#四川蒙牛乳业销售有限公司"/>
+        <NamedIndividual IRI="#四川华润万家好来超市有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#发布"/>
@@ -881,241 +1078,366 @@
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#发布"/>
         <NamedIndividual IRI="#国家食品药品监督管理总局"/>
-        <NamedIndividual IRI="#GB19302-2010_rawmilk"/>
+        <NamedIndividual IRI="#GB25190-2010"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#发布"/>
-        <NamedIndividual IRI="#国家食品药品监督管理总局"/>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#宁波大润发优特购物有限公司"/>
+        <NamedIndividual IRI="#豆本豆原味豆奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#广东蒙牛乳业销售有限公司"/>
+        <NamedIndividual IRI="#福建永辉超市有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生产"/>
+        <NamedIndividual IRI="#成都光明乳业有限公司"/>
+        <NamedIndividual IRI="#光明纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#竞争"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被出售"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被出售"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被出售"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被出售"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#被出售"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#遵守"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
         <NamedIndividual IRI="#GB25190-2010"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#竞争"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-        <NamedIndividual IRI="#Amazon"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-        <NamedIndividual IRI="#Gome"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-        <NamedIndividual IRI="#JD"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-        <NamedIndividual IRI="#Suning"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-        <NamedIndividual IRI="#Tmall"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#遵守"/>
-        <NamedIndividual IRI="#Deluxe(lowfat)"/>
-        <NamedIndividual IRI="#GB25190-2010"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#竞争"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-        <NamedIndividual IRI="#Amazon"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-        <NamedIndividual IRI="#Gome"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-        <NamedIndividual IRI="#JD"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-        <NamedIndividual IRI="#Suning"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
-        <NamedIndividual IRI="#Tmall"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#遵守"/>
-        <NamedIndividual IRI="#Deluxe(pure)"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
         <NamedIndividual IRI="#GB25190-2010"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#生产"/>
-        <NamedIndividual IRI="#Modern_farming_co.,_Ltd"/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+        <NamedIndividual IRI="#现代牧场原奶"/>
+        <NamedIndividual IRI="#现代牧场原奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#福建永辉超市有限公司"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#福建永辉超市有限公司"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#出售"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+        <NamedIndividual IRI="#赤峰澳亚现代牧场有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生产"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生产"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#购买"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+        <NamedIndividual IRI="#现代牧场原奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生产"/>
+        <NamedIndividual IRI="#蒙牛乳制品清远有限责任公司"/>
+        <NamedIndividual IRI="#真果粒"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#供应"/>
+        <NamedIndividual IRI="#蒙牛高科鲜乳制品有限公司"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生产"/>
+        <NamedIndividual IRI="#赤峰澳亚现代牧场有限公司"/>
+        <NamedIndividual IRI="#现代牧场原奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#购买"/>
+        <NamedIndividual IRI="#赤峰澳亚现代牧场有限公司"/>
+        <NamedIndividual IRI="#泰氏饲料"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#生产"/>
+        <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
+        <NamedIndividual IRI="#泰氏饲料"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-        <NamedIndividual IRI="#Amazon"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-        <NamedIndividual IRI="#Gome"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-        <NamedIndividual IRI="#JD"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-        <NamedIndividual IRI="#Suning"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
-        <NamedIndividual IRI="#Tmall"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#遵守"/>
-        <NamedIndividual IRI="#Satine(Low_fat)"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
         <NamedIndividual IRI="#GB25190-2010"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-        <NamedIndividual IRI="#Amazon"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <NamedIndividual IRI="#亚马逊卓越有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-        <NamedIndividual IRI="#Gome"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <NamedIndividual IRI="#北京京东叁佰陆拾度电子商务有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-        <NamedIndividual IRI="#JD"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <NamedIndividual IRI="#国美在线电子商务有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-        <NamedIndividual IRI="#Suning"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被出售"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
-        <NamedIndividual IRI="#Tmall"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#遵守"/>
-        <NamedIndividual IRI="#Satine(pure)"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
         <NamedIndividual IRI="#GB25190-2010"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#生产"/>
-        <NamedIndividual IRI="#Zhunger_farming_co.,_Ltd."/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
+        <NamedIndividual IRI="#黑龙江省完达山乳业股份有限公司"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#认证"/>
+        <NamedIndividual IRI="#New_zealand_AsureQuality_co.,_Ltd"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#认证"/>
+        <NamedIndividual IRI="#New_zealand_AsureQuality_co.,_Ltd"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#Protein_content"/>
-        <NamedIndividual IRI="#Deluxes_special_raw_milk"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.2</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Asset"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4912442.5</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Revenue"/>
-        <NamedIndividual IRI="#Mengniu_Dairy_co.ltd"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">5409696.0</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(low_fat)"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">21928</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(pure)"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">113426</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Sale_amount(monthly)-Satine(Low_fat)"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">14213</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Sale_amount(monthly)-Satine(pure)"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">77514</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#set_price(250ml*12)-Deluxe(low_fat)"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">68</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#set_price(250ml*12)-Deluxe(pure)"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">72.9</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#set_price(250ml*12)-Satine(low_fat)"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">54.4</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#set_price(250ml*12)-Satine(pure)"/>
-        <NamedIndividual IRI="#Tmall"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">64.6</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Asset"/>
-        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">150000.0</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Revenue"/>
-        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">350000.0</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#feedstuff_yield(T)"/>
-        <NamedIndividual IRI="#Hunan_Yueyang_Yuetai_Group_Co.,_Ltd."/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2000000.0</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Asset-2016"/>
-        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">350000</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#Revenue-2016"/>
-        <NamedIndividual IRI="#Vvgroup.co.,Ltd"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">700000</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
-        <DataProperty IRI="#cattle_number"/>
-        <NamedIndividual IRI="#Zhunger_farming_co.,_Ltd."/>
+        <DataProperty IRI="#奶牛数量"/>
+        <NamedIndividual IRI="#准格尔旗盛旺种养殖专业合作社"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3000.0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#Shareholding_ratio"/>
-        <AnonymousIndividual nodeID="_:genid122"/>
+        <DataProperty IRI="#月销量-特伦苏低脂牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">21928</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#月销量-特伦苏纯牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">113426</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#月销量-金典低脂牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">14213</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#月销量-金典纯牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">77514</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格(250ml*12)-特伦苏低脂牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">68</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格(250ml*12)-特伦苏纯牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">72.9</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格(250ml*12)-金典低脂牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">54.4</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格(250ml*12)-金典纯牛奶"/>
+        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">64.6</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#现代牧场原奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.2</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#营业额"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">5409696.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#资产"/>
+        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4912442.5</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#营业额"/>
+        <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">350000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#资产"/>
+        <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">150000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#饲料产量（吨）"/>
+        <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2000000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#持股比例"/>
+        <AnonymousIndividual nodeID="_:genid191"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">23.88</Literal>
     </DataPropertyAssertion>
     <SubObjectPropertyOf>
@@ -1130,15 +1452,19 @@
         <ObjectProperty IRI="#生产"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#认证"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
     <InverseObjectProperties>
         <ObjectProperty IRI="#出售"/>
         <ObjectProperty IRI="#被出售"/>
     </InverseObjectProperties>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI="#控股"/>
+        <ObjectProperty IRI="#出售"/>
     </FunctionalObjectProperty>
     <FunctionalObjectProperty>
-        <ObjectProperty IRI="#出售"/>
+        <ObjectProperty IRI="#控股"/>
     </FunctionalObjectProperty>
     <FunctionalObjectProperty>
         <ObjectProperty IRI="#生产"/>
@@ -1168,12 +1494,12 @@
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </TransitiveObjectProperty>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="#控股"/>
-        <Class IRI="#集团公司"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
         <ObjectProperty IRI="#供应"/>
         <Class IRI="#公司"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#控股"/>
+        <Class IRI="#集团公司"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#生产"/>
@@ -1187,12 +1513,16 @@
         <ObjectProperty IRI="#被生产"/>
         <Class IRI="#产品"/>
     </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#认证"/>
+        <Class IRI="#质量认证"/>
+    </ObjectPropertyDomain>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#控股"/>
+        <ObjectProperty IRI="#供应"/>
         <Class IRI="#公司"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="#供应"/>
+        <ObjectProperty IRI="#控股"/>
         <Class IRI="#公司"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
@@ -1203,92 +1533,96 @@
         <ObjectProperty IRI="#竞争"/>
         <Class IRI="#公司"/>
     </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#认证"/>
+        <Class IRI="#产品"/>
+    </ObjectPropertyRange>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Asset-2015"/>
-        <DataProperty IRI="#Asset"/>
+        <DataProperty IRI="#净利润-2015"/>
+        <DataProperty IRI="#净利润"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Asset-2016"/>
-        <DataProperty IRI="#Asset"/>
+        <DataProperty IRI="#净利润-2016"/>
+        <DataProperty IRI="#净利润"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Net_profit-2015"/>
-        <DataProperty IRI="#Net_profit"/>
+        <DataProperty IRI="#月销量-特伦苏低脂牛奶"/>
+        <DataProperty IRI="#月销量"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Net_profit-2016"/>
-        <DataProperty IRI="#Net_profit"/>
+        <DataProperty IRI="#月销量-特伦苏纯牛奶"/>
+        <DataProperty IRI="#月销量"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Revenue-2015"/>
-        <DataProperty IRI="#Revenue"/>
+        <DataProperty IRI="#月销量-金典低脂牛奶"/>
+        <DataProperty IRI="#月销量"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Revenue-2016"/>
-        <DataProperty IRI="#Revenue"/>
+        <DataProperty IRI="#月销量-金典纯牛奶"/>
+        <DataProperty IRI="#月销量"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Consumer_appraise_hotwords-Deluxe(low_fat)"/>
-        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+        <DataProperty IRI="#消费者评价热词-特伦苏低脂牛奶"/>
+        <DataProperty IRI="#消费者评价热词"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Consumer_appraise_hotwords-Deluxe(pure)"/>
-        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+        <DataProperty IRI="#消费者评价热词-特伦苏纯牛奶"/>
+        <DataProperty IRI="#消费者评价热词"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Consumer_appraise_hotwords-Satine(low_fat)"/>
-        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+        <DataProperty IRI="#消费者评价热词-金典低脂牛奶"/>
+        <DataProperty IRI="#消费者评价热词"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Consumer_appraise_hotwords-Satine(pure)"/>
-        <DataProperty IRI="#Consumer_appraise_hotwords"/>
+        <DataProperty IRI="#消费者评价热词-金典纯牛奶"/>
+        <DataProperty IRI="#消费者评价热词"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(low_fat)"/>
-        <DataProperty IRI="#Sale_quantity(monthly)"/>
+        <DataProperty IRI="#营业额-2015"/>
+        <DataProperty IRI="#营业额"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Sale_amount(monthly)-Deluxe(pure)"/>
-        <DataProperty IRI="#Sale_quantity(monthly)"/>
+        <DataProperty IRI="#营业额-2016"/>
+        <DataProperty IRI="#营业额"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Sale_amount(monthly)-Satine(Low_fat)"/>
-        <DataProperty IRI="#Sale_quantity(monthly)"/>
+        <DataProperty IRI="#资产-2015"/>
+        <DataProperty IRI="#资产"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#Sale_amount(monthly)-Satine(pure)"/>
-        <DataProperty IRI="#Sale_quantity(monthly)"/>
+        <DataProperty IRI="#资产-2016"/>
+        <DataProperty IRI="#资产"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#feedstuff_yield(T)"/>
+        <DataProperty IRI="#饲料产量（吨）"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#set_price(250ml*12)-Deluxe(low_fat)"/>
-        <DataProperty IRI="#set_price"/>
+        <DataProperty IRI="#价格(250ml*12)-特伦苏低脂牛奶"/>
+        <DataProperty IRI="#价格"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#set_price(250ml*12)-Deluxe(pure)"/>
-        <DataProperty IRI="#set_price"/>
+        <DataProperty IRI="#价格(250ml*12)-特伦苏纯牛奶"/>
+        <DataProperty IRI="#价格"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#set_price(250ml*12)-Satine(low_fat)"/>
-        <DataProperty IRI="#set_price"/>
+        <DataProperty IRI="#价格(250ml*12)-金典低脂牛奶"/>
+        <DataProperty IRI="#价格"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#set_price(250ml*12)-Satine(pure)"/>
-        <DataProperty IRI="#set_price"/>
+        <DataProperty IRI="#价格(250ml*12)-金典纯牛奶"/>
+        <DataProperty IRI="#价格"/>
     </SubDataPropertyOf>
     <DataPropertyDomain>
-        <DataProperty IRI="#set_price"/>
+        <DataProperty IRI="#价格"/>
         <DataSomeValuesFrom>
-            <DataProperty IRI="#set_price"/>
+            <DataProperty IRI="#价格"/>
             <Datatype abbreviatedIRI="rdf:XMLLiteral"/>
         </DataSomeValuesFrom>
     </DataPropertyDomain>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <AnonymousIndividual nodeID="_:genid123"/>
+        <AnonymousIndividual nodeID="_:genid192"/>
         <IRI>#冰淇淋</IRI>
     </AnnotationAssertion>
 </Ontology>
