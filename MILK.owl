@@ -94,10 +94,10 @@
         <DataProperty IRI="#价格"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <DataProperty IRI="#净利润-2016"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#净利润-2016"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#营业额-2015"/>
@@ -115,10 +115,10 @@
         <DataProperty IRI="#消费者评价热词"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#圣元乳业股份有限公司"/>
+        <DataProperty IRI="#月销量"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#月销量"/>
+        <NamedIndividual IRI="#圣元乳业股份有限公司"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#蒙牛低脂牛奶"/>
@@ -160,10 +160,10 @@
         <NamedIndividual IRI="#爱氏晨曦乳制品进出口有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#燕糖纯牛奶"/>
+        <NamedIndividual IRI="#泰氏饲料"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#泰氏饲料"/>
+        <NamedIndividual IRI="#燕糖纯牛奶"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#消费者评价热词-特伦苏低脂牛奶"/>
@@ -184,6 +184,9 @@
         <DataProperty IRI="#含菌量（菌落数/毫升）"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#人员"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#上海鲜语牧场乳业销售有限公司"/>
     </Declaration>
     <Declaration>
@@ -196,16 +199,19 @@
         <Class IRI="#标准"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#君乐宝乳业集团"/>
+        <NamedIndividual IRI="#江西蒙牛幸福乳业销售有限公司"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#四川伊利乳业有限责任公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#江西蒙牛幸福乳业销售有限公司"/>
+        <NamedIndividual IRI="#君乐宝乳业集团"/>
     </Declaration>
     <Declaration>
         <Class IRI="#销售"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_ed29a23d_66ab_4767_a11c_4a5988622245"/>
     </Declaration>
     <Declaration>
         <Class IRI="#食品"/>
@@ -226,10 +232,10 @@
         <NamedIndividual IRI="#金典低脂牛奶"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#月销量-特伦苏纯牛奶"/>
+        <DataProperty IRI="#消费者好评率"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#消费者好评率"/>
+        <DataProperty IRI="#月销量-特伦苏纯牛奶"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#奶牛数量"/>
@@ -238,16 +244,19 @@
         <NamedIndividual IRI="#GB19302-2010"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#畜牧业"/>
+        <DataProperty IRI="#月销量-金典纯牛奶"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#月销量-金典纯牛奶"/>
+        <Class IRI="#畜牧业"/>
     </Declaration>
     <Declaration>
         <Class IRI="#社会活动"/>
     </Declaration>
     <Declaration>
         <Class IRI="#在线商城"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_89342f22_6d8e_4138_bae5_121f68298524"/>
     </Declaration>
     <Declaration>
         <Class IRI="#监管机构"/>
@@ -263,6 +272,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#研究机构"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_dbb1e28d_fe51_44fd_8cc2_67c3604c9ce6"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#准格尔旗盛旺种养殖专业合作社"/>
@@ -298,10 +310,10 @@
         <NamedIndividual IRI="#Massey_University"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#质量认证"/>
+        <NamedIndividual IRI="#天润纯牛奶"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#天润纯牛奶"/>
+        <Class IRI="#质量认证"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#国美在线电子商务有限公司"/>
@@ -319,7 +331,13 @@
         <NamedIndividual IRI="#蒙牛高科鲜乳制品有限公司"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_0d1b1fc5_f3b3_4932_9da4_6a162cb1542a"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_7d5c72be_a2ff_4e74_a0b9_5e4d16fa07db"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#GB25190-2010"/>
@@ -388,13 +406,16 @@
         <DataProperty IRI="#饲料产量（吨）"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#荣誉"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#国家食品药品监督管理总局"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#荣誉"/>
+    </Declaration>
+    <Declaration>
         <DataProperty IRI="#价格(250ml*12)-特伦苏纯牛奶"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_1af2b0ef_1022_4f58_98b7_355107825ea1"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#发布"/>
@@ -418,10 +439,10 @@
         <NamedIndividual IRI="#苏宁易购集团股份有限公司"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#山东百慧乳业股份有限公司"/>
+        <ObjectProperty IRI="#被生产"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#被生产"/>
+        <NamedIndividual IRI="#山东百慧乳业股份有限公司"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#三元乳业股份有限公司"/>
@@ -433,16 +454,22 @@
         <NamedIndividual IRI="#三元纯牛奶"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_5229833b_5a74_4bc8_beed_f4c7c25f00f0"/>
+    </Declaration>
+    <Declaration>
         <DataProperty IRI="#价格(250ml*12)-金典低脂牛奶"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#达能（上海）投资有限公司"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#相对密度"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_606d5b7d_e08b_4abe_8cd2_c7bfe897916f"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#北京沃尔玛百货有限公司"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#相对密度"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#福建永辉超市有限公司"/>
@@ -572,6 +599,38 @@
     <ClassAssertion>
         <Class IRI="#研究机构"/>
         <NamedIndividual IRI="#Massey_University"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人员"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0d1b1fc5_f3b3_4932_9da4_6a162cb1542a"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人员"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1af2b0ef_1022_4f58_98b7_355107825ea1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人员"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5229833b_5a74_4bc8_beed_f4c7c25f00f0"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人员"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_606d5b7d_e08b_4abe_8cd2_c7bfe897916f"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人员"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7d5c72be_a2ff_4e74_a0b9_5e4d16fa07db"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人员"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_89342f22_6d8e_4138_bae5_121f68298524"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人员"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_dbb1e28d_fe51_44fd_8cc2_67c3604c9ce6"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#人员"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ed29a23d_66ab_4767_a11c_4a5988622245"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#奶制品"/>
@@ -898,8 +957,48 @@
             <DataProperty IRI="#营业额"/>
             <Datatype abbreviatedIRI="xsd:float"/>
         </DataExactCardinality>
-        <AnonymousIndividual nodeID="_:genid190"/>
+        <AnonymousIndividual nodeID="_:genid1"/>
     </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_0d1b1fc5_f3b3_4932_9da4_6a162cb1542a"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_1af2b0ef_1022_4f58_98b7_355107825ea1"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_5229833b_5a74_4bc8_beed_f4c7c25f00f0"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_606d5b7d_e08b_4abe_8cd2_c7bfe897916f"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_7d5c72be_a2ff_4e74_a0b9_5e4d16fa07db"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_89342f22_6d8e_4138_bae5_121f68298524"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_dbb1e28d_fe51_44fd_8cc2_67c3604c9ce6"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#控股"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ed29a23d_66ab_4767_a11c_4a5988622245"/>
+        <NamedIndividual IRI="#内蒙古蒙牛乳业（集团）股份有限公司"/>
+    </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#生产"/>
         <NamedIndividual IRI="#三元乳业股份有限公司"/>
@@ -1437,7 +1536,7 @@
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#持股比例"/>
-        <AnonymousIndividual nodeID="_:genid191"/>
+        <AnonymousIndividual nodeID="_:genid2"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">23.88</Literal>
     </DataPropertyAssertion>
     <SubObjectPropertyOf>
@@ -1499,7 +1598,10 @@
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#控股"/>
-        <Class IRI="#集团公司"/>
+        <ObjectUnionOf>
+            <Class IRI="#人员"/>
+            <Class IRI="#公司"/>
+        </ObjectUnionOf>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#生产"/>
@@ -1621,8 +1723,48 @@
         </DataSomeValuesFrom>
     </DataPropertyDomain>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_0d1b1fc5_f3b3_4932_9da4_6a162cb1542a</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">杨文俊</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_1af2b0ef_1022_4f58_98b7_355107825ea1</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">白瑛</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_5229833b_5a74_4bc8_beed_f4c7c25f00f0</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">孙玉斌</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_606d5b7d_e08b_4abe_8cd2_c7bfe897916f</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">白君</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_7d5c72be_a2ff_4e74_a0b9_5e4d16fa07db</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">邓九强</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_89342f22_6d8e_4138_bae5_121f68298524</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">卢俊</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_dbb1e28d_fe51_44fd_8cc2_67c3604c9ce6</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">孙先红</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_ed29a23d_66ab_4767_a11c_4a5988622245</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">王福柱</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-        <AnonymousIndividual nodeID="_:genid192"/>
+        <AnonymousIndividual nodeID="_:genid3"/>
         <IRI>#冰淇淋</IRI>
     </AnnotationAssertion>
 </Ontology>
