@@ -16,6 +16,9 @@
         <ObjectProperty IRI="#生产"/>
     </Declaration>
     <Declaration>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+    </Declaration>
+    <Declaration>
         <DataProperty IRI="#月销量-特伦苏低脂牛奶"/>
     </Declaration>
     <Declaration>
@@ -115,6 +118,9 @@
         <DataProperty IRI="#消费者评价热词"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_47e85c06_a791_497a_91a7_7e4a7e7ff780"/>
+    </Declaration>
+    <Declaration>
         <DataProperty IRI="#月销量"/>
     </Declaration>
     <Declaration>
@@ -137,9 +143,6 @@
     </Declaration>
     <Declaration>
         <DataProperty IRI="#营业额"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#资产"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#北京蒙牛宏达乳制品有限责任公司"/>
@@ -217,16 +220,7 @@
         <Class IRI="#食品"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#价格(250ml*12)-特伦苏低脂牛奶"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#价格(250ml*12)-金典纯牛奶"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#伊利低脂牛奶"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#真优格"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#金典低脂牛奶"/>
@@ -316,13 +310,13 @@
         <Class IRI="#质量认证"/>
     </Declaration>
     <Declaration>
+        <DataProperty IRI="#OWLDataProperty_335861d2_58ea_45f1_93ef_1f516ee9ba09"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#国美在线电子商务有限公司"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#内蒙古数科数字营销有限公司"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#资产-2016"/>
     </Declaration>
     <Declaration>
         <Class IRI="#宣传"/>
@@ -412,9 +406,6 @@
         <Class IRI="#荣誉"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#价格(250ml*12)-特伦苏纯牛奶"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#OWLNamedIndividual_1af2b0ef_1022_4f58_98b7_355107825ea1"/>
     </Declaration>
     <Declaration>
@@ -457,9 +448,6 @@
         <NamedIndividual IRI="#OWLNamedIndividual_5229833b_5a74_4bc8_beed_f4c7c25f00f0"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#价格(250ml*12)-金典低脂牛奶"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#达能（上海）投资有限公司"/>
     </Declaration>
     <Declaration>
@@ -494,9 +482,6 @@
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#杭州好又多百货有限公司"/>
-    </Declaration>
-    <Declaration>
-        <DataProperty IRI="#资产-2015"/>
     </Declaration>
     <Declaration>
         <DataProperty IRI="#蛋白质含量"/>
@@ -609,6 +594,10 @@
         <NamedIndividual IRI="#OWLNamedIndividual_1af2b0ef_1022_4f58_98b7_355107825ea1"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#国家安全标准"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_47e85c06_a791_497a_91a7_7e4a7e7ff780"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#人员"/>
         <NamedIndividual IRI="#OWLNamedIndividual_5229833b_5a74_4bc8_beed_f4c7c25f00f0"/>
     </ClassAssertion>
@@ -859,10 +848,6 @@
     <ClassAssertion>
         <Class IRI="#集团公司"/>
         <NamedIndividual IRI="#皇氏集团股份有限公司"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#食品"/>
-        <NamedIndividual IRI="#真优格"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#食品"/>
@@ -1005,19 +990,24 @@
         <NamedIndividual IRI="#三元纯牛奶"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#遵守"/>
+        <NamedIndividual IRI="#三元乳业股份有限公司"/>
+        <NamedIndividual IRI="#GB25190-2010"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#被生产"/>
         <NamedIndividual IRI="#三元纯牛奶"/>
         <NamedIndividual IRI="#三元乳业股份有限公司"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#遵守"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
+        <NamedIndividual IRI="#GB25190-2010"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
         <ObjectProperty IRI="#控股"/>
         <NamedIndividual IRI="#中国蒙牛乳业有限公司"/>
         <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
-    </ObjectPropertyAssertion>
-    <ObjectPropertyAssertion>
-        <ObjectProperty IRI="#生产"/>
-        <NamedIndividual IRI="#临夏壹清清真食品有限公司"/>
-        <NamedIndividual IRI="#真优格"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#出售"/>
@@ -1038,6 +1028,11 @@
         <ObjectProperty IRI="#出售"/>
         <NamedIndividual IRI="#亚马逊卓越有限公司"/>
         <NamedIndividual IRI="#金典纯牛奶"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#遵守"/>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_47e85c06_a791_497a_91a7_7e4a7e7ff780"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
         <ObjectProperty IRI="#控股"/>
@@ -1460,9 +1455,259 @@
         <NamedIndividual IRI="#特伦苏纯牛奶"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥53.90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#三元纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥70.60</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1.3g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#伊利低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#伊利纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#伊利纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥61.20</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#伊利纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">99%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#伊利纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.2g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#伊利纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.8g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#光明纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">200ml x 12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#光明纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥55.50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#光明纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#光明纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_335861d2_58ea_45f1_93ef_1f516ee9ba09"/>
+        <NamedIndividual IRI="#内蒙古伊利实业集团股份有限公司"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1914.1亿</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#冰泉原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#冰泉原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥59.80</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#冰泉原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#冰泉原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1.6g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#冰泉原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#奶牛数量"/>
         <NamedIndividual IRI="#准格尔旗盛旺种养殖专业合作社"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#圣牧有机奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">200ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#圣牧有机奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥63.80</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#圣牧有机奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#圣牧有机奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.1g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#圣牧有机奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.5g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#夏进纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">243ml x 15</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#夏进纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥49.00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#夏进纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">98%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#夏进纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.5g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#夏进纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#天润纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">200g x 18</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#天润纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥63.50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#天润纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#天润纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.1g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#天润纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2.9g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥28.50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">99%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#完达山纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2.9g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥45.00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.8g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#新希望纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.3g/100ml</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#月销量-特伦苏低脂牛奶"/>
@@ -1485,24 +1730,104 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">77514</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#价格(250ml*12)-特伦苏低脂牛奶"/>
-        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">68</Literal>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#燕糖纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">200ml x 12</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#价格(250ml*12)-特伦苏纯牛奶"/>
-        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
-        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">72.9</Literal>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#燕糖纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥33.00</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#价格(250ml*12)-金典低脂牛奶"/>
-        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">54.4</Literal>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#燕糖纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#价格(250ml*12)-金典纯牛奶"/>
-        <NamedIndividual IRI="#浙江天猫网络有限公司"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">64.6</Literal>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#燕糖纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#燕糖纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥57.80</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1.3g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#特伦苏低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.4g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 16</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥68.90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">98%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.4g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#特伦苏纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#现代牧业纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#现代牧业纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥51.00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#现代牧业纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#现代牧业纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.5g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#现代牧业纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.2g/100ml</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#蛋白质含量"/>
@@ -1510,14 +1835,169 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">3.2</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#真果粒"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#真果粒"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥64.50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#维他奶原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#维他奶原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥56.90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#维他奶原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">99%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#维他奶原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1.4g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#维他奶原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#维维原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">300ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#维维原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥96.00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#维维原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">99%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#维维原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">13.2g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#维维原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">16.8g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#菊乐全脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 24</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#菊乐全脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥164.00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#菊乐全脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.7g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#菊乐全脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">98%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#菊乐全脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.1g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
         <DataProperty IRI="#营业额"/>
         <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">5409696.0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#资产"/>
-        <NamedIndividual IRI="#蒙牛乳业（北京）有限责任公司"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">4912442.5</Literal>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#蒙牛低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 16</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#蒙牛低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥41.00</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#蒙牛低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">98%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#蒙牛低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1.3g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#蒙牛低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#蒙牛纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 16</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#蒙牛纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥35.10</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#蒙牛纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">98%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#蒙牛纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#蒙牛纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.2g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#豆本豆原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 15</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#豆本豆原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥44.50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#豆本豆原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">100%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#豆本豆原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2.0g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#豆本豆原味豆奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.0g/100ml</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#营业额"/>
@@ -1525,14 +2005,59 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">350000.0</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="#资产"/>
-        <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">150000.0</Literal>
-    </DataPropertyAssertion>
-    <DataPropertyAssertion>
         <DataProperty IRI="#饲料产量（吨）"/>
         <NamedIndividual IRI="#通辽市泰氏饲料有限公司"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2000000.0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥61.20</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">98%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">1.4g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#金典低脂牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">250ml x 12</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#价格"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">￥58.50</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#消费者好评率"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">98%</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#脂肪含量"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.9g/100ml</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#蛋白质含量"/>
+        <NamedIndividual IRI="#金典纯牛奶"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">36g/100ml</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
         <DataProperty IRI="#持股比例"/>
@@ -1688,32 +2213,8 @@
         <DataProperty IRI="#营业额"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="#资产-2015"/>
-        <DataProperty IRI="#资产"/>
-    </SubDataPropertyOf>
-    <SubDataPropertyOf>
-        <DataProperty IRI="#资产-2016"/>
-        <DataProperty IRI="#资产"/>
-    </SubDataPropertyOf>
-    <SubDataPropertyOf>
         <DataProperty IRI="#饲料产量（吨）"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
-    </SubDataPropertyOf>
-    <SubDataPropertyOf>
-        <DataProperty IRI="#价格(250ml*12)-特伦苏低脂牛奶"/>
-        <DataProperty IRI="#价格"/>
-    </SubDataPropertyOf>
-    <SubDataPropertyOf>
-        <DataProperty IRI="#价格(250ml*12)-特伦苏纯牛奶"/>
-        <DataProperty IRI="#价格"/>
-    </SubDataPropertyOf>
-    <SubDataPropertyOf>
-        <DataProperty IRI="#价格(250ml*12)-金典低脂牛奶"/>
-        <DataProperty IRI="#价格"/>
-    </SubDataPropertyOf>
-    <SubDataPropertyOf>
-        <DataProperty IRI="#价格(250ml*12)-金典纯牛奶"/>
-        <DataProperty IRI="#价格"/>
     </SubDataPropertyOf>
     <DataPropertyDomain>
         <DataProperty IRI="#价格"/>
@@ -1724,6 +2225,16 @@
     </DataPropertyDomain>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLDataProperty_335861d2_58ea_45f1_93ef_1f516ee9ba09</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">市值</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLDataProperty_e9a199b0_d4ef_4756_82b1_4f5165076583</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">规格</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#OWLNamedIndividual_0d1b1fc5_f3b3_4932_9da4_6a162cb1542a</IRI>
         <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">杨文俊</Literal>
     </AnnotationAssertion>
@@ -1731,6 +2242,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#OWLNamedIndividual_1af2b0ef_1022_4f58_98b7_355107825ea1</IRI>
         <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">白瑛</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_47e85c06_a791_497a_91a7_7e4a7e7ff780</IRI>
+        <Literal xml:lang="zh" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">GB25191-2010</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
